@@ -12,6 +12,13 @@
   <img src="https://github.com/panachats/A-Web-based-System-for-Camp-Site-Booking-Management/blob/main/img/05.png?raw=true" height="200" width="300" />
 </div>
 
+# ลิงค์คลิป Youetube :
+<div align="left">
+    <a href="https://youtu.be/BZJGVPRGCu8"> <img
+            src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"
+            height="35" alt="youtube logo" /></a>
+</div>
+
 <h4> โดยในไฟล์ index.html จะมีตัวเลือกให้เลือก 2 ตัวเลือก</h4>
 <b><u>(ซึ่งหากนำผลงานไป Implement จริงจะไม่มีการใส่หน้า Index.html ให้ผู้ใช้เลือก)</u></b>
 <ul>
@@ -222,14 +229,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42"
     alt="photoshop logo" />
 <br><br>
-
-
-# ลิงค์คลิป Youetube :
-<div align="left">
-    <a href="https://youtu.be/BZJGVPRGCu8"> <img
-            src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="youtube logo" /></a>
-</div>
 
 # สมาชิกในกลุ่ม : 🤷‍♀️🤷‍♂️
 - 64100738 นายกษิดิศ บุญชัย
