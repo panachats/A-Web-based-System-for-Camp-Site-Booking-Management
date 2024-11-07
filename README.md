@@ -238,17 +238,5 @@
 - 64105653 นายธนวัฒน์ ศรีวิไล
 <br><br>
 
-<img height="150" width="150"
-    src="https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/355867964_2413410482159526_3931598206330439985_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeEiGCZQzbq1pK57MTPrXhFwZtalOnJFKH5m1qU6ckUofnuf4lSJfHQnVIeYlPKpESsLuSRWJS2WbWIjrwSLUnDQ&_nc_ohc=OvCU-saKBuQAX_Aua7r&_nc_ht=scontent.fbkk25-1.fna&oh=00_AfClLmHjaJG78LOJPoT3suUI0JzLXZC3_huxwMeeQPsL8Q&oe=64FE1C3B" />
-<img height="150" width="150"
-    src="https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/371980227_3543077902590424_4719688806673984362_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeFkUdSklSulCZnpOFJI2BH6HvkCJJ78hNEe-QIknvyE0YcobQvHT5iylPfVMp8GjeEd7f17o6aO9LOgV8qICe9O&_nc_ohc=jyuiayf-2x8AX8bccSH&_nc_ht=scontent.fbkk25-1.fna&oh=00_AfBmdgpTVQXVNz7eQEEsnh9XNjumYWJQHvTQQ1XBvneoQw&oe=64FDA4E2" />
-<img height="150" width="150"
-    src="https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/70642065_539813520095903_4457384525135085568_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeE17rUUv-06KgGQ3YuemzSJLQquRlnRabctCq5GWdFpt0jbfUC8LTpQmiSECZxFZ-_t_yIvo-rtLM8ynDsjrdU5&_nc_ohc=-jDxnSWdmEgAX-i2_4q&_nc_ht=scontent.fbkk25-1.fna&oh=00_AfBsML7PXBwz9Ffwbv5-YftCP40x45mSCMdfCreECdJ3zw&oe=65203ADE" />
-<img height="150" width="150" src="https://static.vecteezy.com/system/resources/thumbnails/004/141/669/small/no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-illustration-vector.jpg" />
-<br><br>
-
 
 # หลักสูตรเทคโนโลยีสารสนเทศและนวัตกรรมดิจิทัล สำนักวิชาสารสนเทศศาสตร์ 🏫
-<div>
-    <img height="300" width="300"
-        src="https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/279560270_5821053641244444_1641496247686643675_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeF0EY1X0Qdhl07UJiFQsaVZWylXctbtv-pbKVdy1u2_6tf9k1Ytpc8jIphmM3ZHSVw5BcDktrmF-SyZmjBluAYm&_nc_ohc=zllZx5NY8CYAX8RVUgo&_nc_ht=scontent.fbkk25-1.fna&oh=00_AfAmRf7-rV8_4mMTlBDuZiSBDz-kOs-MIC-Xk8qnvSA5SA&oe=64FE2666" />
